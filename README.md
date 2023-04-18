@@ -19,8 +19,8 @@ The key features of this application include:
 
 To run this application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/muqeetiqbal2/meetup-planner-using-django.git`
-2. Navigate into the project directory: `cd meetup-planner-using-django`
+1. Clone the repository: `git clone https://github.com/muqeetiqbal2/employee_project.git`
+2. Navigate into the project directory: `cd employee_project`
 3. Create a virtual environment: `python3 -m venv env`
 4. Activate the virtual environment: `source env/bin/activate`
 5. Install the dependencies: `pip install -r requirements.txt`
@@ -29,10 +29,10 @@ To run this application locally, follow these steps:
 
 ## Contributing
 
-If you're interested in contributing to Meetup-Planner-Using-Django, please follow these steps:
+If you're interested in contributing to Employee Management App using Django, please follow these steps:
 
-1. Fork the repository: https://github.com/muqeetiqbal2/meetup-planner-using-django
-2. Clone your forked repository: `git clone https://github.com/muqeetiqbal2/meetup-planner-using-django.git`
+1. Fork the repository: https://github.com/muqeetiqbal2/employee_project
+2. Clone your forked repository: `git clone https://github.com/muqeetiqbal2/employee_project.git`
 3. Create a new branch for your changes: `git checkout -b my-new-feature`
 4. Make your changes and commit them: `git commit -am 'Add some feature'`
 5. Push your changes to GitHub: `git push origin my-new-feature`
